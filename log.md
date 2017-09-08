@@ -23,7 +23,8 @@
 
 **Thoughts:** I struggled a bit with non-destructive methods in objects and arrays. I got stuck with ```function deleteFromObjectByKey(object, key)``` Through some research, I found that objects have to be cloned using ```Object.assign()``` I don't fully understand it yet. I know that once I do some reading on it and put it in use in real life applications, I'll get it. So my solution was
 
-```function deleteFromObjectByKey(obj, key) {
+```
+function deleteFromObjectByKey(obj, key) {
   var cloneObj = Object.assign({}, obj);
     delete cloneObj[key];
 
