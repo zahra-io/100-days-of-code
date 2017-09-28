@@ -78,7 +78,8 @@ I think ```switch``` statements are easy to write. Of course, I need to see them
 
 **Thoughts:** This was review for me but this book definitely gave me a different perspective on JavaScript. I like that variables were explained as instructions you have to give to the computer. You have to use variables to store (or "remember") data, so if you are multiplying two numbers, say:
 
-```width x height = area
+```
+width x height = area
 ```
 
 You are telling the computer:
