@@ -204,13 +204,13 @@ This book is definitely helping me out in areas I needed better explained. I alw
 
 **Today's Progress:** I completed Intro to JavaScript on Bootcamp Prep! Yay!! I learned a lot from this Bootcamp Prep Course. I know I need to practice a lot more but it was a great introduction to the concepts I needed to know.
 
-**Thoughts:** Feeling good! I took a peak at the final Rock Dodger lab and man oh man...I am not ready to tackle that beast. Do programmers ever feel like they don't know enough? I know THAT lab will take me days, maybe even a month to figure out. But I learned about the basic concepts of JavaScript which I'm feeling good about because now I'm aware of the existence of methods and structures that I'd have to use.
+**Thoughts:** Feeling good! I took a peak at the final Rock Dodger lab and man oh man...I am not ready to tackle that beast yet. Do programmers ever feel like they don't know enough? I know THAT lab will take me days, maybe even a month to figure out. But I learned about the basic concepts of JavaScript which I'm feeling good about because now I'm aware of the existence of methods and structures that I'd have to use. On to Ruby to get a bbasic gist of the language.
 
 ## Day 17: September 22, 2017
 
-**Today's Progress:** Ruby - Introduction to Ruby
+**Today's Progress:** I started Introduction to Ruby today on Bootcamp Prep! I just spent time reading the introduction section of the course which explained how Yukihiro Matsumoto created Ruby. This course is going to be based on creating Tic Tac Toe. I learned about ```puts``` and printed ```puts "Welcome to Tic Tac Toe"```
 
-**Thoughts:**
+**Thoughts:** I'm excited to step away from JavaScript for a bit and see if I understand another language. I think the Bootcamp Prep course for Ruby is a lot more detailed than the JavaScript one. It teaches you how to run tests in terminal, which I still don't know how to test my JavaScript code outside of Chromes console! So I think learning Ruby is going to be fun.
 
 ## Day 18: September 23, 2017
 
@@ -221,6 +221,11 @@ This book is definitely helping me out in areas I needed better explained. I alw
 ## Day 19: September 24, 2017
 
 **Today's Progress:** Ruby Methods Section
+
+
+
+
+
 
 **Thoughts:**
 
@@ -237,6 +242,12 @@ This book is definitely helping me out in areas I needed better explained. I alw
 **Thoughts:**
 
 ## Day 22: September 27, 2017
+
+**Today's Progress:** Ruby - Command Line Applications
+
+**Thoughts:**
+
+## Day 23: September 28, 2017
 
 **Today's Progress:** Ruby - Command Line Applications
 
