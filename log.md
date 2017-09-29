@@ -226,9 +226,20 @@ This book is definitely helping me out in areas I needed better explained. I alw
 
 ## Day 20: September 25, 2017
 
-**Today's Progress:** Ruby - Command Line Applications
+**Today's Progress:** Worked through Intro to Methods on Bootcamp Prep. I learned about Ruby interpolation, creating methods with ```def``` and ending the code block with ```end```. The lesson explained why the ```return``` value is important and then I got to code more of the Tic Tac Toe Board.
 
-**Thoughts:**
+**Thoughts:** I like the fact that each lesson is incorporated into the Tic Tac Toe project. So I learned about methods and then I created a method for the Tic Tac Toe board like this
+
+```
+def display_board
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end
+```
+I think it's really effective to do this because I'm learning how to actually use everything as I'm going along in the labs. I also like that I can use IRB to test out what I'm doing/what I'm getting right and wrong.
 
 ## Day 21: September 26, 2017
 
