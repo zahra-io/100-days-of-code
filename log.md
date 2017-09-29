@@ -214,20 +214,15 @@ This book is definitely helping me out in areas I needed better explained. I alw
 
 ## Day 18: September 23, 2017
 
-**Today's Progress:** Ruby Fundamentals - Debugging, Variables
+**Today's Progress:** I learned about and played around with Ruby IRB. I also learned what ```Time.now``` is. And then I learned about reading errors. Ruby is so elegant and smooth, I'm already liking it a lot better than JavaScript.
 
-**Thoughts:**
+**Thoughts:** I think it's really cool that Ruby has a command where you can test, manipulate and understand your code better to solve problems. I think errors are also intimidating but I like how this course explains them and allows you to read/solve the labs from the beginning. What stands out most is that there are video explanations and how to actually run and test code in terminal. I like it!
 
 ## Day 19: September 24, 2017
 
-**Today's Progress:** Ruby Methods Section
+**Today's Progress:** Coded for a few hours. Completed the Variables section of Intro to Ruby on Bootcamp Prep. Learned about Ruby Data Types and Array basics. And then built a Tic Tac Toe Board towards the end.
 
-
-
-
-
-
-**Thoughts:**
+**Thoughts:** This is pretty cool! I created a Tic Tac Toe board with an ```array``` and added 9 empty string elements to it representing the board. I stoked to learn to build more!
 
 ## Day 20: September 25, 2017
 
