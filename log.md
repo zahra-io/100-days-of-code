@@ -243,17 +243,113 @@ I think it's really effective to do this because I'm learning how to actually us
 
 ## Day 21: September 26, 2017
 
-**Today's Progress:** Ruby - Command Line Applications
+**Today's Progress:** I learned about methods and arguments in Ruby and worked on some code exercises. I now know how to create a method with multiple arguments, yay.
 
-**Thoughts:**
+**Thoughts:** I thought this was fun and simple. I think it's interesting that ruby doesn't run a method if a specified argument isn't called in the paranthesis. In the beginning of the course for Ruby, I was wondering how to code an argument that printed out a string multiple times and now I know how to do that!
+
+```
+def say_anything_x_times(phrase, x)
+  x.times do
+    puts phrase
+  end
+end
+```
+I just love Ruby so far. I'm going to be saying that a lot but it's just so much better than JavaScript.
 
 ## Day 22: September 27, 2017
 
-**Today's Progress:** Ruby - Command Line Applications
+**Today's Progress:** Today I learned about test-driven development and RSpec Testing in Ruby. I also got to write a snippet of my own test!
 
-**Thoughts:**
+**Thoughts:** The most important take away from this lesson was learning how to read test errors when writing code. I didn't think about how complex code is and that the tests are ACTUALLY written by programmers. So it was cool to play around with a test file and a solution file and see how they work together.
 
 ## Day 23: September 28, 2017
+
+**Today's Progress:** Learned about default arguments! These are cool because then methods can be called without an argument and they'll say what you want. But also the arguments can change. It's all coming together.
+
+**Thoughts:** I'm understanding it! So if I wanted to create a method
+
+```
+def upcoming_concert(artist="Grizzly Bear", venue="Brooklyn Steel")
+  puts "#{artist} is playing at #{venue}"
+end
+```
+Now I can change the name anytime and switch out arguments. This is a cool concept to understand and I can't wait to learn when it would be useful to use this.
+
+
+## Day 24: September 29, 2017
+
+**Today's Progress:** Completed 2 labs on Interpolation Power and the Tic Tac Toe Board. I learned about interpolating arrays and then implemented this method in the Tic Tac Toe board.
+
+**Thoughts:** I WROTE A TEST! I think I understand it because the lessons are very thorough. So there were obviously hints but it's so exciting. I also implemented a Ruby Tic Tac Toe board that displays multiple solutions. I think the game coming together is so cool. I love it! 
+
+```
+it 'prints an entire board full of Xs' do
+  # Should you want to write your own test for this situation,
+  # read the following code and comments.
+
+  # Can you copy the syntax of the tests above to write a test for a board
+  # entirely filled with Xs?"
+
+  # Define the board with values that should create the desired output
+  # *** Edit the line below ***
+  board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
+
+  # Don't touch the following lines.
+  output = capture_puts{ display_board(board) } if defined?(display_board)
+  rows = output.split("\n")
+
+  # Each line that starts with expect represents a row in the ouput.
+  # The desired characters a row must include are provided by the String
+  # of the row. EX: The top row filled with X would be " X | X | X "
+
+  # You would code that expectation with:
+  # expect(output).to include(" X | X | X ")
+  # meaning you expect the entire output to at least include a matching row.
+
+  # Uncomment the following lines of code by removing the # at line start.
+  # Then edit the following lines to represent a board entirely filled with X.
+  # Remember, every space and every character is important.
+
+  # *** Edit the lines below ***
+  # *** Uncomment the lines below ***
+  # expect(rows[0]).to eq("   |   |   ")
+  # expect(rows[1]).to eq("-----------")
+  # expect(rows[2]).to eq("   |   |   ")
+  # expect(rows[3]).to eq("-----------")
+  # expect(rows[4]).to eq("   |   |   ")
+
+  # *** Comment the line below by adding a # at the line start ***
+  #expect(true).to be(true)
+  expect(rows[0]).to eq(" X | X | X ")
+  expect(rows[1]).to eq("-----------")
+  expect(rows[2]).to eq(" X | X | X ")
+  expect(rows[3]).to eq("-----------")
+  expect(rows[4]).to eq(" X | X | X ")
+end
+
+it 'prints an entire board full of Os' do
+  board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+  # Can you copy the syntax of the tests above to write a test for a board
+  # entirely filled with Os?
+  output = capture_puts{ display_board(board) } if defined?(display_board)
+  rows = output.split("\n")
+
+  # Hint: You should be able to copy the code in the previous it example
+  # and make a few simple edits to convert the previous example to this
+  # example's situation.
+
+  # *** Comment the line below by adding a # at the line start ***
+  #expect(true).to be(true)
+  expect(rows[0]).to eq(" O | O | O ")
+  expect(rows[1]).to eq("-----------")
+  expect(rows[2]).to eq(" O | O | O ")
+  expect(rows[3]).to eq("-----------")
+  expect(rows[4]).to eq(" O | O | O ")
+end
+end
+```
+
+## Day 25: September 30, 2017
 
 **Today's Progress:** Ruby - Command Line Applications
 
