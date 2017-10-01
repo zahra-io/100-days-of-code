@@ -280,7 +280,7 @@ Now I can change the name anytime and switch out arguments. This is a cool conce
 
 **Today's Progress:** Completed 2 labs on Interpolation Power and the Tic Tac Toe Board. I learned about interpolating arrays and then implemented this method in the Tic Tac Toe board.
 
-**Thoughts:** I WROTE A TEST! I think I understand it because the lessons are very thorough. So there were obviously hints but it's so exciting. I also implemented a Ruby Tic Tac Toe board that displays multiple solutions. I think the game coming together is so cool. I love it! 
+**Thoughts:** I WROTE A TEST! I think I understand it because the lessons are very thorough. So there were obviously hints but it's so exciting. I also implemented a Ruby Tic Tac Toe board that displays multiple solutions. I think the game coming together is so cool. I love it!
 
 ```
 it 'prints an entire board full of Xs' do
@@ -351,6 +351,6 @@ end
 
 ## Day 25: September 30, 2017
 
-**Today's Progress:** Ruby - Command Line Applications
+**Today's Progress:** I completed the Command Line section of Ruby on Bootcamp Prep. I knew a little bit about command line before, but I didn't have in-depth knowledge. So I learned to build my own CLI application which is interesting.
 
-**Thoughts:**
+**Thoughts:** Command Line is a little confusing for me. I understand the basic concept of storing files and accessing them via terminal but building CLI applications is confusing. But watching and doing hands-on labs to build the exercises gave me a gist of the structure. I know how to use the ```gets``` method now, too. Woo!
