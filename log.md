@@ -354,3 +354,53 @@ end
 **Today's Progress:** I completed the Command Line section of Ruby on Bootcamp Prep. I knew a little bit about command line before, but I didn't have in-depth knowledge. So I learned to build my own CLI application which is interesting.
 
 **Thoughts:** Command Line is a little confusing for me. I understand the basic concept of storing files and accessing them via terminal but building CLI applications is confusing. But watching and doing hands-on labs to build the exercises gave me a gist of the structure. I know how to use the ```gets``` method now, too. Woo!
+
+## Day 26: October 1, 2017
+
+**Today's Progress:** I coded a Tic Tac Toe board by writing a CLI application that takes in a user argument. SO INTERESTING. I'm getting to learn how both sides of the code work.
+
+**Thoughts:** I think this is awesome and the instructions are so clear that I'm able to learn what to do quickly. I had trouble with updating the board every time a user makes a move but through enough examples, I was able to figure it out. This is my code:
+
+```
+def display_board(board)
+  puts " #{board[0]} | #{board[1]} | #{board[2]} "
+  puts "-----------"
+  puts " #{board[3]} | #{board[4]} | #{board[5]} "
+  puts "-----------"
+  puts " #{board[6]} | #{board[7]} | #{board[8]} "
+end
+# code your input_to_index and move method here!
+
+def input_to_index(input)
+  user_input = input.to_i
+  user_input - 1
+end
+
+def move(board, index, current_player = "X")
+  board[index] = current_player
+end
+```
+
+And this the CLI code, which is so cool!
+
+```
+#!/usr/bin/env ruby
+
+require_relative '../lib/move.rb'
+
+# Code your CLI Here
+puts "Welcome to Tic Tac Toe!"
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+puts "Where would you like to go?"
+
+input = gets.strip
+index = input_to_index(input)
+move(board, index, current_player = "X")
+display_board(board)
+```
+
+## Day 27: October 2, 2017
+
+**Today's Progress:** Took a teeny break from Bootcamp Prep today and attended App Academy's JumpStart Cohort. This two week program is an assessment on Ruby. I learned about variables, comments, methods, and data types.
+
+**Thoughts:** I've realized that my least favourite topic is always going to be anything and any exercise that has to do with arithmetic. I'm already bad at math so trying to solve a math problem with code trips me up. So that's all I did today, exercises solving math problems. I don't like that structure when teaching to code because math is difficult and not everyone learning to code will understand it this way. Blah. Not a good day. I struggled a lot but I submitted the exercise for the cohort and did decently.
