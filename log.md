@@ -404,3 +404,9 @@ display_board(board)
 **Today's Progress:** Took a teeny break from Bootcamp Prep today and attended App Academy's JumpStart Cohort. This two week program is an assessment on Ruby. I learned about variables, comments, methods, and data types.
 
 **Thoughts:** I've realized that my least favourite topic is always going to be anything and any exercise that has to do with arithmetic. I'm already bad at math so trying to solve a math problem with code trips me up. So that's all I did today, exercises solving math problems. I don't like that structure when teaching to code because math is difficult and not everyone learning to code will understand it this way. Blah. Not a good day. I struggled a lot but I submitted the exercise for the cohort and did decently.
+
+## Day 28: October 3, 2017
+
+**Today's Progress:** Completed the Logic and Conditionals section of Ruby on Bootcamp Prep. I learned about RSpec Fizzbuzz and actually coded a test.
+
+**Thoughts:** It's great to learn about having a target and stating your expectations before writing the solution. Sometimes, thinking about how to get somewhere without thinking about the goals can confuse you. So thinking about the goal and then figuring out the solution is a smart way to think like a programmer. I never thought about it this way.
