@@ -1,15 +1,20 @@
 # 100 Days Of Code - Log
 
-## Goal:
+## Goals:
 1. Complete Flatiron School's Bootcamp Prep Course and #BacktoCode Challenge
   - JavaScript
   - Ruby Fundamentals
 2. Complete Web Developer Bootcamp
 3. Read JavaScript & jQuery by Jon Duckett
-4.  @freeCodeCamp
-5. Start a Programming/Computer Science blog and post once a week.
+4. Read The Well Grounded Rubyist by David A. Black
+5. Complete Web Developer Bootcamp
+6. Start @freeCodeCamp
+7. Complete The Advanced Web Developer Bootcamp
+8. Learn more about CSS5 Animations/Graphic Design
+9. Start a blog
 
-###### Started a clean slate for everything. I created a new Github account, a new account on Flatiron's Learn.co website, I'm starting over with my 100-days-of-code log because I felt that I needed to organize everything and create a new curriculum. I started Learn.co back in January when I FIRST started coding so the labs were already done and when I tried to re-do them, it got confusing. I have a better idea of what I'm doing and why I'm learning to code so here's to reaching goals!
+
+###### I know I won't be able to complete everything above in the #100DaysOfCode ^ but that's the curriculum I'm giving myself to progress and improve as a Software Engineer. Even if I go to a Bootcamp for better training, I'd still like to put in the hours outside of Bootcamp to do better and be better and continue to learn and grow because that's what pursuing this path is all about.
 
 ### Day 1: September 6, 2017
 
@@ -409,4 +414,112 @@ display_board(board)
 
 **Today's Progress:** Completed the Logic and Conditionals section of Ruby on Bootcamp Prep. I learned about RSpec Fizzbuzz and actually coded a test.
 
-**Thoughts:** It's great to learn about having a target and stating your expectations before writing the solution. Sometimes, thinking about how to get somewhere without thinking about the goals can confuse you. So thinking about the goal and then figuring out the solution is a smart way to think like a programmer. I never thought about it this way.
+**Thoughts:** Thinking about the goal and then figuring out the solution is a smart way to think like a programmer. I never thought about it this way before so I'm always learning new things. I coded a tic tac toe method that checks the validity of the user input, yay!
+
+```
+def position_taken?(board, index)
+  if board[index] == " " || board[index] == "" || board[index] == nil
+    false
+  elsif board[index] == "X" || board[index] == "O"
+    true
+  end
+end
+```
+
+## Day 29: October 4, 2017
+
+**Today's Progress:** Completed the Loops and Iteration secton of Intro to Ruby on Bootcamp Prep. I learned about ```.times do```, ```while loops```, and ```until loops```. I also learned about the ```each``` method!
+
+**Thoughts:** I like the ```until``` loop the best because it makes the most sense to me syntax-wise. But they are all pretty straight-forward. I can't wait to implement them in an actual app. I got stuck using them in the Tic Tac Toe game but I used the ```until``` loop for my ```play(board)``` method.
+
+```
+def play(board)
+  turn_count = 0
+  until turn_count == 9
+    turn(board)
+    turn_count += 1
+  end
+end
+```
+
+## Day 30: October 5, 2017
+
+**Today's Progress:** Coded for an hour. I learned about Nested Arrays. THEY ARE CRAZY AND CONFUSING.
+
+**Thoughts:** So apparently, we're not supposed to implement and array that is
+four levels deep. I wrote this nested array as practice and I was so mind-boggled. It got confusing where to close the code block.
+
+```
+music_library = [
+  ["LANY",
+    ["LANY",
+      ["Pancakes", "Hurts", "The Breakup"]
+    ],
+    ["Make Out",
+      ["ILYSB", "Walk Away"]
+    ]
+  ],
+  ["LCD Soundsystem",
+    ["american dream",
+      ["oh baby", "i used to", "other voices"]
+    ],
+    ["Sound of Silver",
+      ["New York, I love you but you're bringing me down"]
+    ]
+  ]
+]
+
+music_library.each do |artist_array|
+  artist_array.each do |artist_element|
+    if artist_element.class != Array
+      puts "Artist: #{artist_element}"
+    else
+      artist_element.each do |album_element|
+        if album_element.class != Array
+          puts "Album: #{album_element}"
+        else
+          album_element.each do |song_element|
+            puts "Song: #{song_element}"
+          end
+        end
+      end
+    end
+  end
+end
+```
+
+## Day 31: October 6, 2017
+
+**Today's Progress:** Today I watched a video on ```yield``` and ```enumerables```. I also completed lessons on enumerables. I learned about boolean enumerables ```none?```, ```any?```, and ```include?``` and search enumerables ```select``` and ```find```.
+
+**Thoughts:** ????????? I'm so confused and struggling with this concept. I watched the video and was very confused about how enumerables work. It's easy to use them in a simple array, I'm not sure how I would use them in an actual program. Low motivation day today.
+
+## Day 32: October 7, 2017
+
+**Today's Progress:** I finished the final part of the Tic Tac Toe project and was able to play with an AI. Yay!
+
+**Thoughts:** I was able to understand what I was doing based on the guided instructions and the test suite errors, but I know that I have trouble with the logic and helper methods. I want to try to redo this game because what makes me nervous is not being able to do it without a helping hand. But isn't programming all about figuring it out? I also thought it was cool to write a CLI application to get a feel for how things work on the backend. Idk, I feel good because I understand it but I feel like shit because I know I struggle with putting together the logic.
+
+## Day 33: October 8, 2017
+
+**Today's Progress:** I completed the Object Orientation section of Bootcamp Prep. I learned about Classes, Instances, Instantiate, Instance Methods, Object Properties, Object Lifecycle, and Object Models.
+
+**Thoughts:** I think the ```.new``` is pretty cool. I liked this section of OOP because it helped me understand Ruby a bit more and how we can bring our own methods into existence. I want to practice this more!
+
+## Day 34: October 9, 2017
+
+**Today's Progress:** I worked on some Codewars challenges and discovered HackerRank.
+
+**Thoughts:** Struggled! Codewars is cool but the difficulty definitely frustrates you've spend an hour on a problem and haven't gotten a n y w h e r e with it. I'm going to be using this platform a lot to practice though.
+
+## Day 35: October 10, 2017
+
+**Today's Progress:** I did a 75 minute Technical Assessment for Fullstack Academy. I also finished the Deli Counter Lab in Ruby for my Technical Track for Flaitron School.
+
+**Thoughts:** Math has always been my weakness. I dislike solving problems that involve math + code. Code is already hard and I'm still learning but I don't think approaching problem solving with a math problem is a good idea. It takes me 10x longer to think about the logic in math than it does for something that isn't math-related. I feel defeated because I know I got a lot of it wrong. I thought the Deli Counter Lab was fine though, I've done it in JavaScript before but it was interesting to write it in Ruby. My personality interview is on Friday for Flatiron School, fingers crossed!
+
+## Day 36: October 11, 2017
+
+**Today's Progress:** Watched an hour long video lesson on Object Oriented Programming. Finished Flatiron School's Bootcamp Prep completely! So now I have a BASIC grasp of Ruby and Javascript.
+
+**Thoughts:** This video definitely broke down OOP a lot better than the labs and lessons. I THINK I understand it but I'm going to watch this video once again. I think Avi Flombaum does a great job at explaining Object Orientation which is harder for someone who's new to this to understand. I also like Ruby a lot more than JavaScript. Now I'm debating starting The Web Developer Bootcamp from the start OR fCC? Hmm...
