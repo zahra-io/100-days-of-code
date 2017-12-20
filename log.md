@@ -112,4 +112,16 @@
 
 **Today's Progress:** Spent an hour watching Youtube videos on how to make sprites fall from the sky in Scratch. So I completely forgot that this game works on a X and Y axis. lol!!! But I figured out how to make the doughnut fall from the sky and disappear when it touches the elephant.
 
-**Thoughts:** I struggled! I have to find a way to make my little doughnut to disappear when it touches the ground and for the elephant to be more interactive. It's one thing at a time, thats all that matters. I also have to fix the score keeper. 
+**Thoughts:** I struggled! I have to find a way to make my little doughnut to disappear when it touches the ground and for the elephant to be more interactive. It's one thing at a time, thats all that matters. I also have to fix the score keeper.
+
+### Day 20: December 18, 2017
+
+**Today's Progress:** Made a teeny bit progress in Scratch. I wanted to work on making my elephant move left and right and jump up and down. I watched some YouTube videos on it and experimented with a few things.
+
+**Thoughts:** This is hard! I made it move left and right but I couldn't get it to jump.
+
+### Day 21: December 19, 2017
+
+**Today's Progress:** Worked on making my elephant sprite jump up and down and move left and right at the same time. I looked at someone else's game to try out what they did. It worked!
+
+**Thoughts:** Scratch is definitely hard. I'm going to watch a video tutorial on how to actually program in Scratch because it's confusing. But I made it work! I'm going to make my doughnuts bounce instead of falling from the sky so that they are everywhere.
