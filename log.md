@@ -125,3 +125,9 @@
 **Today's Progress:** Worked on making my elephant sprite jump up and down and move left and right at the same time. I looked at someone else's game to try out what they did. It worked!
 
 **Thoughts:** Scratch is definitely hard. I'm going to watch a video tutorial on how to actually program in Scratch because it's confusing. But I made it work! I'm going to make my doughnuts bounce instead of falling from the sky so that they are everywhere.
+
+### Day 22: December 20, 2017
+
+**Today's Progress:** Continued to work on my Scratch project. I added gravity to my elephant so that it comes right down when it jumps. I also figured out a way to hide the doughnuts!
+
+**Thoughts:** It's challenging! I feel like I have to google and watch a lot of YouTube videos to make certain functions work. I'm going to play around with it more tomorrow.
