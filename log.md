@@ -131,3 +131,23 @@
 **Today's Progress:** Continued to work on my Scratch project. I added gravity to my elephant so that it comes right down when it jumps. I also figured out a way to hide the doughnuts!
 
 **Thoughts:** It's challenging! I feel like I have to google and watch a lot of YouTube videos to make certain functions work. I'm going to play around with it more tomorrow.
+
+### Day 23: December 21, 2017
+
+**Today's Progress:** I'm known for changing things up last minute. SO I changed my Scratch game to be more festive. My sprites are a Fat Santa, a monster, and two present sprites. I used the same concepts.
+
+**Thoughts:** It's a little hard for me to grasp visual logic for some reason but I'm feeling ok! My Santa sprite is functioning and is moving left and right and jumps up when I press the up-arrow key.
+
+### Day 24: December 22, 2017
+
+**Today's Progress:** Continued to work on my Santa game. I spent a long time fixing up my custom sprites instead of adding logic to them. But I have everything all set up now. I have to add the logic for everything.
+
+**Thoughts:** My motivation was a bit low today because I was tired from work but I can't wait to see my game come to life!
+
+### Day 25: December 23, 2017
+
+**Today's Progress:** I added all the logic. My Santa Claus jumps up when the up-arrow key is pressed. It moves left when the left key is pressed and moves right when the right key is pressed. I added sound effects and then I added sensing and events. The operators confuses me a bit in Scratch so I had to do a little research.
+
+**Thoughts:** Feeling ok! Scratch is NOT easy but it was fun building the game. It was all about trail and error and watching TONS of youtube videos to figure out what I was doing. Here is the link to the project:
+
+[link](https://scratch.mit.edu/projects/195023104/)
