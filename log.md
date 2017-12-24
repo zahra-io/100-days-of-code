@@ -150,4 +150,4 @@
 
 **Thoughts:** Feeling ok! Scratch is NOT easy but it was fun building the game. It was all about trail and error and watching TONS of youtube videos to figure out what I was doing. Here is the link to the project:
 
-[link](https://scratch.mit.edu/projects/195023104/)
+[Scratch Fat Santa Game](https://scratch.mit.edu/projects/195023104/)
