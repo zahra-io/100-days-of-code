@@ -118,3 +118,9 @@ while (x <= 20) {
 **Today's Progress:** Coded for an hour. Worked on the Factorials Quiz and the Find My Seat Quiz. Factorials ARE HARD. I never understood them from math class anyway, I don't understand them in code.
 
 **Thoughts:** I'm thinking that I should probably take up some basic algebra lessons on Khan Academy because my skills are REALLY weak. I always struggled with math in school and I think it's because I was always bad at learning in a classroom vs. learning on my own and if I stayed on top of it at home, I would've understood it. But I didn't do that so my math skills are WEAK.
+
+### Day 18: January 28, 2018
+
+**Today's Progress:** Coded for an hour. Worked through the Functions lesson on Grow With Google. I know that I struggle with computational-thinking and problem-solving and I know that it's a skill that can be acquired.
+
+**Thoughts:** I'm thinking that I shouldn't overcommit myself to certain tasks because that's when I get extremely discouraged. I committed myself to the CNC2018 "Blog More" challenge but I don't have anything to blog about except for my experience as a self-taught developer in progress. I'm thinking I'm going to do these things on my own timeline and write when I have something to write about.
