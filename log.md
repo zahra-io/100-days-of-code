@@ -13,3 +13,13 @@
 **Today's Progress:** Skipped yesterday because of work-related things that got in the way. I watched and followed along a Pure CSS Image and Animation tutorial. We created a Koala! I tweaked the Koala to my own liking and played around with the color palette. Choosing colours is my favourite part of any project.
 
 **Thoughts:** I think it's pretty cool that you can nest a ```div``` tag inside of another ```div``` tag for CSS images and it'll create one shape for that div (if this makes sense). I didn't understand how percentages worked, but doing this image tutorial helped me make a lot of sense of some of the CSS properties. I learned about ```z-index```, which I think is great. I understood it in the way a desigenr would with Photoshop layers. So to put the ears behind the Koala's head, the ```z-index``` was necessary. However, I've definitely seen images and animations that have taken a different approach so I'm going to look into that. My goal with my Koala is to make it blink!
+
+### Day 3: February 24, 2018
+
+**Today's Progress:** Picking up my lesson from where I left off even though I skipped a few days. I know, I know — if other people can make time everyday with a full-time job, so can I. And I'm getting into it! So today, I worked through a few lessons on Pure CSS Images. I learned more in-depth about ```z-index```. I really found the CSS Variables used for SCSS really cool. They're so efficient and I never such a thing existed but they're so simple to use. I finally learned about the ```@keyframe``` property which adds the animation so I tinkered around with my Koala and made him blink!
+
+Even though it's such a simple thing, it's exciting for me because I'm a visual person and I LOVE aesthetics and drawings and I found this to be a big deal in my learning journey. Also got a little introduction to VueJS, which is slightly intimidating so definitely going to rewatch that part of the lesson.
+
+**Thoughts:** I feel good! The tutorials didn't teach me to make my animation do the cool blinking thing so I figured it out on my own and tinkered around with the code. You always feel a lot more successful when you're making things happen on your own and learning about specific properties. I'm really liking SCSS and definitely want to learn more about it.
+
+Here is a [Project Link](https://codepen.io/zahra-io/pen/jZxMwP) to my Koala
