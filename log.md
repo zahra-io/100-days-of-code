@@ -23,3 +23,9 @@ Even though it's such a simple thing, it's exciting for me because I'm a visual 
 **Thoughts:** I feel good! The tutorials didn't teach me to make my animation do the cool blinking thing so I figured it out on my own and tinkered around with the code. You always feel a lot more successful when you're making things happen on your own and learning about specific properties. I'm really liking SCSS and definitely want to learn more about it.
 
 Here is a [Project Link](https://codepen.io/zahra-io/pen/jZxMwP) to my Koala
+
+### Day 4: February 25, 2018
+
+**Today's Progress:** I continued watching Coding Artists' tutorial on Pure CSS. VueJS is confusing as fuck so I definitely want to look into that later on. I learned about efficient ways to use CSS Animations in the ~front-end~ world which is awesome. I'm going to tinker with fun stuff for now to learn CSS proficiently so I created a template for a cat I'm going to draw with CSS. I wrote about the HTML (pug version) in CodePen and I declared my variables with SCSS.
+
+**Thoughts:** I think VueJS is really cool and can do some powerful things. I'm thinking I'm going to continue practicing pure CSS / SCSS so I can learn what different properties are used for. I know that SCSS is used widely in the industry so it's important to learn it. I feel good! I'm nervous about drawing the cat on my own but it'll be a nice challenge to tackle.
