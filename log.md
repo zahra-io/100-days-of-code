@@ -35,3 +35,21 @@ Here is a [Project Link](https://codepen.io/zahra-io/pen/jZxMwP) to my Koala
 **Today's Progress:** Watched a little bit of Coding Artist's code along of the Ninento Switch. I worked on my CSS Cat drawing but I feel like I didn't get that far. I'm still trying to understand percentages in CSS so I played around with that for a bit.
 
 **Thoughts:** I kind of struggled today! I wasn't sure how to align the inner ears for my CSS Cat so I tinkered with the ```top``` and ```left``` percentages. I'm thinking I'm going to sit through the code along tomorrow and watch what he's trying to do and then do some code drawing lessons on Khan Academy.
+
+### Day 6: February 28, 2018
+
+**Today's Progress:** I watched and carefully listened to a Pure CSS code along of the Nintendo Switch in Coding Artist's course. I think I figured out what I didn't understand yesterday! I had trouble understanding CSS positioning with percents and how nesting was a huge factor in it so watching this code along helped me understand how he was positioning everything. I also didn't understand what ```position: relative;``` and ```position: absolute;``` meant so I looked it up on MDN but it didn't click until the code along.
+
+**Thoughts:** Feeling ok! I'm going to attempt to make my own animation once again but I'm thinking I'm going to rewatch the code along just to take absorb everything. I thought it was such an interesting video. Gotta watch more of these!
+
+### Day 7: March 4, 2018
+
+**Today's Progress:** I spent the day working on my Pure CSS Cat Image. It was tough but I spent a few hours trying to figure out how to make everything work. I played around with ```absolute``` and ```relative``` position and percents. I spent the most time figuring out how to draw a cats tail in CSS, from which I learned about the ```transform: rotate()``` property and I think that's really cool. I was trying to make the ears rotate earlier but wasn't able to figure out how and then it all came together.
+
+For the ears, I was using Clippy to create to a triangle but then I learned about ```border-top-left-radius``` and ```border-top-right-radius``` and ended up figuring out how to create it in just CSS.
+
+I'm still not sure how ```deg``` measurements work but I have to do some research on it and play around with it some more.
+
+**Thoughts:**  I feel good! I think this is the most engaged I've ever been on a project and I think it's because I'm working on it by choice and attempting to code something I want to code. This is helping me get better at my CSS skills. I used to be intimated by it because I didn't know how to move something or make it look pretty or knew how to manipulate items to make them how I wanted to make them. My first attempt with this was CSS Zen Garden and I was like NOPE. But I like practicing with images a lot because I'm a visual learner and it helps me see what I'm doing in a creative way.
+
+This cat image was out of my comfort zone and I definitely got intimidated at first and almost gave up but I broke it down piece by piece to style each part of my image. I'm still working on it and I can't wait to see the finished product! Here is the [link](https://codepen.io/zahra-io/pen/wyYgVd) to it!
