@@ -44,7 +44,7 @@ Here is a [Project Link](https://codepen.io/zahra-io/pen/jZxMwP) to my Koala
 
 ### Day 7: March 4, 2018
 
-**Today's Progress:** I spent the day working on my Pure CSS Cat Image. It was tough but I spent a few hours trying to figure out how to make everything work. I played around with ```absolute``` and ```relative``` position and percents. I spent the most time figuring out how to draw a cats tail in CSS, from which I learned about the ```transform: rotate()``` property and I think that's really cool. I was trying to make the ears rotate earlier but wasn't able to figure out how and then it all came together.
+**Today's Progress:** Picking up from where I left off but I'm definitely working on being more consistent with my coding. I spent the day working on my Pure CSS Cat Image. It was tough but I spent a few hours trying to figure out how to make everything work. I played around with ```absolute``` and ```relative``` position and percents. I spent the most time figuring out how to draw a cats tail in CSS, from which I learned about the ```transform: rotate()``` property and I think that's really cool. I was trying to make the ears rotate earlier but wasn't able to figure out how and then it all came together.
 
 For the ears, I was using Clippy to create to a triangle but then I learned about ```border-top-left-radius``` and ```border-top-right-radius``` and ended up figuring out how to create it in just CSS.
 
@@ -53,3 +53,9 @@ I'm still not sure how ```deg``` measurements work but I have to do some researc
 **Thoughts:**  I feel good! I think this is the most engaged I've ever been on a project and I think it's because I'm working on it by choice and attempting to code something I want to code. This is helping me get better at my CSS skills. I used to be intimated by it because I didn't know how to move something or make it look pretty or knew how to manipulate items to make them how I wanted to make them. My first attempt with this was CSS Zen Garden and I was like NOPE. But I like practicing with images a lot because I'm a visual learner and it helps me see what I'm doing in a creative way.
 
 This cat image was out of my comfort zone and I definitely got intimidated at first and almost gave up but I broke it down piece by piece to style each part of my image. I'm still working on it and I can't wait to see the finished product! Here is the [link](https://codepen.io/zahra-io/pen/wyYgVd) to it!
+
+### Day 8: March 5, 2018
+
+**Today's Progress:** I can't believe I wrote so much CSS! I was so intimidated by it before I began writing the code for this cat. So I spent a few more hours working on my Pure CSS Cat. I'm learning a lot from doing this which is awesome. I learned how to create a curved line in CSS—I was looking for a way to create my cats mouth so I did some googling and research and tried out a few things that I didn't know about. The ```content``` property is interesting and does some cool things that I've seen other peoples code. I have to experiment with it though to see what I should use it for. I learned how to do cool things with the ```border``` property by setting specific parts of the border to ```transparent```. I'm not even sure if I'm explaining it right. But that was definitely an accomplishment.
+
+**Thoughts:** Even though there's a lot I still don't know, I feel like I'm actually making progress and finally creating something. I know it's not JavaScript but CSS is hard! I'm only learning how to utilize the basics with this one so I want to keep working on illustrations until I feel slightly more comfortable using CSS/SCSS. I'm thinking I should start Shayhowe's Learn to Code HTML/CSS and read a bit of documentation as a refresher. 
