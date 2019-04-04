@@ -8,3 +8,9 @@
 **Today's Progress:** I've finished 10 Basic HTML exercises on freeCodeCamp. I listened to 2 episodes of @2ndcareerdevs podcast. I watched "Introduction to Web Development Fundamentals" from Lambda Precourse work. Lastly, I played around with terminal commands — attempting to push this onto github and I definitely forgot how to do it so it was good practice. I need to keep doing it to retain memory.
 
 **Thoughts:** This was all beginners material that refreshed my memory. I'm good at HTML but since I haven't touched it in a year, I definitely needed the refresher on element tags. I learned the difference between Front End and Back End development and some unique challenges a Software Engineer may experience, which challenged my thought process because I never thought about creating accessible products for people who are color blind/may have hearing issues. Overall, I'm feeling good! I struggled with focus a bit but I got through it and the @2ndcareerdevs podcast gave me a hint of motivation to start learning.
+
+### Day 2: April 3, 2019
+
+**Today's Progress:** I finished 17 Basic HTML lessons on freeCodeCamp — meaning I finished the Basic HTML section of freeCodeCamp. Watched Lambda Schools tutorials on Introduction to HTML, which complemented the other lessons.
+
+**Thoughts:** Got confused about `radio` buttons! So you add a `label` tag and then add a `for` tag to make the syntax clear to the programmer. And then you have to name all of them the same `name` so that they are grouped as one. The explanation was a little confusing but I eventually got it. 
