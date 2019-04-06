@@ -13,4 +13,11 @@
 
 **Today's Progress:** I finished 17 Basic HTML lessons on freeCodeCamp — meaning I finished the Basic HTML section of freeCodeCamp. Watched Lambda Schools tutorials on Introduction to HTML, which complemented the other lessons.
 
-**Thoughts:** Got confused about `radio` buttons! So you add a `label` tag and then add a `for` tag to make the syntax clear to the programmer. And then you have to name all of them the same `name` so that they are grouped as one. The explanation was a little confusing but I eventually got it. 
+**Thoughts:** Got confused about `radio` buttons! So you add a `label` tag and then add a `for` tag to make the syntax clear to the programmer. And then you have to name all of them the same `name` so that they are grouped as one. The explanation was a little confusing but I eventually got it.
+
+### Day 3: April 6, 2019
+
+**Today's Progress:** I listened to @CodeNewbies S1E8: "What and why is web animation" and S2E6: "Who decides the future of CSS (Jen Simmons)." Followed by that I watched the "Introduction to CSS videos by Lambda School and completed 3 challenges/quizzes on Codepen that tested the knowledge I learned so far and then I worked through the Basic CSS section of @freeCodeCamp.
+
+**Thoughts:** Feeling good! I'm trying not to miss days but I've accepted that it's going to happen sometimes as long as I stay committed to code consistently. I like CSS because it's creative and visual. I learned
+through the podcasts that CSS animation isn't a career, however, CSS skills—especially animation—can complement a front-end developer. I want to get as comfortable as possible with CSS so I'm going to spend a little bit more time with it and create projects purely with CSS. 
