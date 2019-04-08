@@ -20,4 +20,10 @@
 **Today's Progress:** I listened to @CodeNewbies S1E8: "What and why is web animation" and S2E6: "Who decides the future of CSS (Jen Simmons)." Followed by that I watched the "Introduction to CSS videos by Lambda School and completed 3 challenges/quizzes on Codepen that tested the knowledge I learned so far and then I worked through the Basic CSS section of @freeCodeCamp.
 
 **Thoughts:** Feeling good! I'm trying not to miss days but I've accepted that it's going to happen sometimes as long as I stay committed to code consistently. I like CSS because it's creative and visual. I learned
-through the podcasts that CSS animation isn't a career, however, CSS skills—especially animation—can complement a front-end developer. I want to get as comfortable as possible with CSS so I'm going to spend a little bit more time with it and create projects purely with CSS. 
+through the podcasts that CSS animation isn't a career, however, CSS skills—especially animation—can complement a front-end developer. I want to get as comfortable as possible with CSS so I'm going to spend a little bit more time with it and create projects purely with CSS.
+
+### Day 4: April 7, 2019
+
+**Today's Progress:** Finished the Basic CSS section of freeCodeCamp and started the Advanced CSS and SASS course by Jonas Schmedtmann on Udemy. I didn't know that CSS variables exist so I learned something new! I liked that freeCodeCamp touched on `media query` a bit because I think CSS animation is so cool and I want to learn that (and yes, I know there's no career as a CSS animator, I just think it's a fun way to learn CSS).
+
+**Thoughts:** I'm still struggling with prioritization and time management +  wished that I managed my time better so I could've coded longer. However, I'm excited to keep learning and I want to learn more about CSS and become proficient in it before I jump into JavaScript.
